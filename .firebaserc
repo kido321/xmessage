@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "xmessege-ac776",
+    "production": "xmessege-ac776"
+  },
+  "targets": {},
+  "etags": {}
+}
